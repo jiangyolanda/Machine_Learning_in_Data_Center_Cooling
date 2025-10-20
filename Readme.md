@@ -1,11 +1,9 @@
 **Smarter Cooling: How Machine Learning is Transforming Data Center Energy Efficiency**
 
-In the era of artificial intelligence and cloud computing, data centers have become the beating heart of the digital economy. They power everything from video calls and online shopping to generative AI models and large-scale analytics. But this digital infrastructure comes at a cost — energy consumption.
-Cooling alone accounts for nearly 40% of total data center power use, and by 2030, global data centers are expected to consume up to 8% of the world’s electricity.
-Improving cooling efficiency is therefore not only an engineering challenge, but also an environmental imperative.
+This project explores how machine learning can make modular data center cooling systems smarter, greener, and more adaptive — moving beyond traditional rule-based control to data-driven, self-optimizing management.
 
-This project explores how machine learning (ML) can make data center cooling systems smarter, greener, and more adaptive — moving beyond traditional rule-based control to data-driven, self-optimizing management.
- 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/21bf3b66-bd51-471b-b84c-22e7712dd5e3" />
+
 **From Static Control to Intelligent Adaptation**
 
 Traditional cooling systems operate on preset rules: if the temperature exceeds a certain threshold, turn on more chillers or fans.
@@ -25,7 +23,6 @@ Limited data for model training;
 High complexity of reinforcement learning algorithms;
 The need for fast convergence and low latency;
 Constantly changing workloads and outdoor conditions.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/21bf3b66-bd51-471b-b84c-22e7712dd5e3" />
 
 To address these barriers, our project focuses on lightweight, adaptive ML solutions that can be trained with limited data and still perform reliably in dynamic environments.
  
